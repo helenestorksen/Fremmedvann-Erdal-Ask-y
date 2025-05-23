@@ -1,1 +1,8 @@
+streamlit
 folium
+streamlit-folium
+pandas
+matplotlib
+scipy
+Pillow
+numpy
